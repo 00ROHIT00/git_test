@@ -1,1 +1,2 @@
-hello world
+hello world  
+Hello World , this is just a test for those trying to know what GIT is about and to know how it works!
