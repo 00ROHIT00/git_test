@@ -1,4 +1,5 @@
 hello world  
 Hello World , this is just a test for those trying to know what GIT is about and to know how it works!  
 Hello world , this is another test for those who are trying to follow me 
-sike
+sike 
+Running Git on Ubuntu for0 the first time . Yay! 
